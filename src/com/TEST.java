@@ -14,7 +14,7 @@ public class TEST {
 		
 		System.out.println("Test case 5");
 		
-		System.out.println("Test case 7");
+	
 
 	}
 
